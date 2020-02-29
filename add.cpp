@@ -4,6 +4,6 @@ int main()
 {
     int a,b,c;
     cin>>a>>b;
-    c=a+b;
+    c=a+b+222;
     cout<<c<<"new ***";
 }
