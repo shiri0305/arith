@@ -5,5 +5,5 @@ int main()
     int a,b,c;
     cin>>a>>b;
     c=a+b;
-    cout<<c<<"new change";
+    cout<<c<<"new ***";
 }
